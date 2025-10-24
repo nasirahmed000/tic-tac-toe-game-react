@@ -101,7 +101,7 @@ export default function Game() {
       </li>
     );
   });
-
+ 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-sky-100 to-indigo-200 p-6">
       <h1 className="text-4xl font-extrabold text-gray-800 mb-6 drop-shadow">
@@ -117,7 +117,7 @@ export default function Game() {
         </div>
       </div>
       <footer className="mt-8 text-gray-600 text-sm">
-        Built by <span className="font-semibold text-indigo-600">Nasir 💻</span>
+        Built by <span className="font-semibold text-indigo-600">Nasir Ahmed💻</span>
       </footer>
     </div>
   );
